@@ -6,8 +6,7 @@ $ apt install dnsutils<br>
 $ git clone https://github.com/Pavithran-R/Hammer/
 
 Hammer need <b>Name Server</b> of that website which you want to attack...<br>
-To get the Name Server of Website type:<br>
-$ <b>nslookup example.com<b><br>
+To get the Name Server just type <b>nslookup example.com<b> in Terminal<br>
 Note the IP Address of that Website<br>
 
 then <br>
