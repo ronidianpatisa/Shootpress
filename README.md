@@ -1,8 +1,8 @@
-Shootpress is a script that functions as a tool in carrying out DDoS attacks that are developed based on Hammer. This script can run on Android using Termux, and can also run on Linux devices.
-
-Hope you can use this script wisely.
-
-<b>How to:</b>
+Shootpress is a script that functions as a tool in carrying out DDoS attacks that are developed based on Hammer. This script can run on Android using Termux, and can also run on Linux devices.<br>
+<br>
+Hope you can use this script wisely.<br>
+<br>
+<b>How to:</b><br>
 $ apt update<br>
 $ apt upgrade<br>
 $ apt install python<br>
